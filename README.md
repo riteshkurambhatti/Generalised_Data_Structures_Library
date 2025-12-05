@@ -101,4 +101,4 @@ int main() {
 ## 👨‍💻 Author
 
 Developed by **Ritesh laxmikant Kurambhatti**
-📧 Contact: riteshkurambhatti2006@gmail.com (mailto: riteshkurambhatti2006@gmail.com)
+📧 Contact: riteshkurambhatti2006@gmail.com 
